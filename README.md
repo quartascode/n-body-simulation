@@ -4,4 +4,4 @@ Simple gravity simulation. Uses fixed update
 
 ## Gif
 
-![Gif #1](gif/gif.gif)
+![Gif #1](gif/anim.gif)
